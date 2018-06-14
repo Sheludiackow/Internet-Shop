@@ -116,5 +116,5 @@ $(document).ready(function () {
     $('.send-email').on('click', sendEmail);   // вешаем обытие на кнопку заказать (отправить письмо с заказом)
 });
 
-
-/////////       Смотреть урок 7     //////////
+///// Смотреть урок 7
+///// https://vk.com/web_assistant_page?w=wall-69629534_367%2Fall
